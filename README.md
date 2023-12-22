@@ -69,6 +69,3 @@ Breaking down the command:
 ## Benefits Beyond Size: Security Boost 🛡️
 
 Reducing image size isn't just about efficiency – it's also about security. Our final image contains only the essentials needed to run the Go application, minimizing attack surfaces and potential vulnerabilities. With fewer dependencies and a smaller footprint, our web server is now more resilient and secure in a production environment.
-
-
-#DockerOptimization #GoLangMagic #WebDevJourne
